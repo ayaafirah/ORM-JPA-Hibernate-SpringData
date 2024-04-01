@@ -1,5 +1,7 @@
 <h1> Compte rendu </h1>
 <h3> Afirrah Aya G1 </h3>
+
+<h2> Premiere partie: </h2>
 <h4> 1. Créer un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock :</h4>
 
 <img src="captures/JEE21.png">
@@ -24,5 +26,14 @@
 <h4> 6. Tester quelques opérations de gestion de patients :</h4>
 <img src="captures/JEE26.png">
 
+<h2> Deuxieme partie: </h2>
+
+<h4> 1. Créer une application qui permet de gérer les Rendez-vous des Patients chez des Medecins pour effectuer des Consultations :</h4>
+<img src="captures/JEE2part21.png">
+<img src="captures/JEE2part22.png">
+
+<h4> 2. Créer une application qui permet de gérer des Users ayant des Roles :</h4>
+<img src="captures/JEE2part23.png">
+<img src="captures/JEE2part24.png">
 
 
